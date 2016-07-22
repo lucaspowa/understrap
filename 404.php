@@ -5,7 +5,7 @@
  */
 
 get_header(); ?>
-<div class="wrapper" id="404-wrapper">
+<div class="wrapper" id="error-404-wrapper">
     
     <div  id="content" class="container">
 
